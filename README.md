@@ -1,2 +1,2 @@
 # libmmd
-## Library to access MikuMikuDance project files.
+Library to access MikuMikuDance project files.
